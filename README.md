@@ -1,4 +1,4 @@
-# AZG-ISDConverter
+# Azure Striker Gunvolt ISD Converter
 This tool decrypts ISD audio files from the PC version of Azure Striker Gunvolt into OGG files.
 
 # Instructions
